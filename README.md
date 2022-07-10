@@ -1,4 +1,11 @@
-This is the final project for Advanced SQL: MySQL Data Analysis & Business Intelligence.  The goal is to relate Maven's growth story to potential investors.  I have supplemented the SQL analyses with a Tableau story and a chart (also found in Final Project Tableau Analysis.pdf)
+
+
+The projects and exercises here are done from a perspective of a data analyst at an early-stage eCommerce startup.  The analyst works with the marketing team to analyze and optimize marketing channels, measure and test website conversion performance, and use data to understand the impact of new product launches.  
+<br/> The projects are part of the Advanced SQL: MySQL Data Analysis & Business Intelligence course.
+
+<br/>In the midterm project: TODO
+
+<br/>In the final project for Advanced SQL: MySQL Data Analysis & Business Intelligence.  The goal is to relate Maven's growth story to potential investors.  I have supplemented the SQL analyses with a Tableau story and a chart (also found in Final Project Tableau Analysis.pdf)
 <br>i.) Growth Story: https://public.tableau.com/app/profile/dmitriy.popov.velasco/viz/MySQLTableauMavenFuzzyFactoryGrowthStoryFP/MavenStory2
 <br>ii.) A graph of product synergy: https://public.tableau.com/app/profile/dmitriy.popov.velasco/viz/ProductSynergy/ProductSynergy?publish=yes
 <br>iii.)Example of cross-channel bid optimization and channel portfolio analyses conducted to achieve the above growth: https://public.tableau.com/app/profile/dmitriy.popov.velasco/viz/MySQLTableauMavenFuzzyFactoryProject59/Cross-channelBidOptimization, https://public.tableau.com/app/profile/dmitriy.popov.velasco/viz/MySQLTableauMavenFuzzyFactoryProject54/ChannelPortfolios54,
