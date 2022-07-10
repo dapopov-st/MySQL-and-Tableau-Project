@@ -1,6 +1,6 @@
 
 
-The projects and exercises here are done from a perspective of a data analyst at an early-stage eCommerce startup.  The analyst works with the marketing team to analyze and optimize marketing channels, measure and test website conversion performance, and use data to understand the impact of new product launches.  
+The projects and exercises here are done from the perspective of a data analyst at an early-stage eCommerce startup.  The analyst works with the marketing team to analyze and optimize marketing channels, measure and test website conversion performance, and use data to understand the impact of new product launches.  
 <br/> The projects are part of the Advanced SQL: MySQL Data Analysis & Business Intelligence course.
 
 <br/>In the midterm project: TODO
