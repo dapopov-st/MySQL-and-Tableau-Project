@@ -16,4 +16,4 @@ The growth story can be found [here](https://public.tableau.com/app/profile/dmit
 - Summarize and pull based on descriptions
 
 - Highlights of analyses
-- Short and sweet with links
+- Short and sweet with links + organize top
