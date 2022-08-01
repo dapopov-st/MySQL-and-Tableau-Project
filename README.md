@@ -4,10 +4,10 @@ The projects and exercises here are done from the perspective of a data analyst 
 <br/>The analyst first helps the company prepare data for an executive board meeting (see the materials for the midterm project).
 
 <br/>Later, the analyst relates Maven's growth story to potential investors (see the final project).  I have supplemented these analyses with a Tableau story and a chart (also found in Final Project Tableau Analysis.pdf)
-The growth story can be found [here](https://public.tableau.com/app/profile/dmitriy.popov.velasco/viz/MySQLTableauMavenFuzzyFactoryGrowthStoryFP/MavenStory2)
+The growth story can be found [here](https://public.tableau.com/app/profile/dmitriy.popov.velasco/viz/MySQLTableauMavenFuzzyFactoryGrowthStoryFP/MavenStory2) .
 
 
-<br>The projects are part of John Pauler's highly recommended Advanced SQL: MySQL Data Analysis & Business Intelligence course (https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/). See class assignments for examples of other analyses, which are found in *Other Projects and Assignments folder*.  I have worked out all problems before looking at the suggested course solutions, and while some of my  analyses deviate from the approaches covered in the course, they lead to the same final answers.
+<br>The projects are part of John Pauler's highly recommended Advanced SQL: [MySQL Data Analysis & Business Intelligence course](https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/). See class assignments for examples of other analyses, which are found in *Other Projects and Assignments folder*.  I have worked out all problems before looking at the suggested course solutions, and while some of my  analyses deviate from the approaches covered in the course, they lead to the same final answers.
 
 
 - Within these repo are analises
