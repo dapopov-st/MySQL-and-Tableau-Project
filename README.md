@@ -2,7 +2,7 @@
 
 The projects and exercises here are done from the perspective of a data analyst at an early-stage eCommerce startup.  The analyst works with the marketing team to analyze and optimize marketing channels, measure and test website conversion performance, and use data to understand the impact of new product launches.  
 
-<br/>The analyst first helps the company prepare data for an executive board meeting (see the materials for the midterm project). Findings:
+<br/>The analyst first helps the company prepare data for an executive board meeting (see the materials for [Project 1] (https://github.com/dapopov-st/MySQL-and-Tableau-Project/tree/main/Project1/SQL)). Findings:
 - Strong growth in sessions, orders, and conversion rates (Q1 analysis)
 - Strong growth in brand orders (orders placed after explicitly searching for Maven in the browser, Q2 analysis) 
 - Relative increase in desktop VS mobile orders (Q3 analysis) 
