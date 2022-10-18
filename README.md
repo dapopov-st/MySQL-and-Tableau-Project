@@ -9,9 +9,9 @@ The projects and exercises here are done from the perspective of a data analyst 
 - Strong growth in organic search and direct type in sessions (Q4 analysis), indicating an increase in sessions that are of no cost to the company
 - Increase in conversion rates from around 3.2% to 4.4% in under a year (Q5 analysis)
 - 0.8% lift from the new landing page, leading to extra 50 orders per month on average (Q6 analysis)
-- Lift of $8.51 per billing page view ($10,160/month) due to the new billing page
-Additional analyses
-- Conversion funnel analyses for the new landing page (Q7 analyses)
+- Lift of $8.51 per billing page view ($10,160/month) due to the new billing page (Q8 analysis)
+- Additional analyses: Conversion funnel analyses for the new landing page (Q7 analyses)
+
 
 
 <br/>Later, the analyst relates Maven's growth story to potential investors (see the final project).  I have supplemented these analyses with a Tableau story and a chart (also found in Final Project Tableau Analysis.pdf)
